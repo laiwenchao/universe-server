@@ -1,0 +1,117 @@
+ /* 打印的样式 */
+ .page-break {
+    display: none;
+}
+
+.print-table,
+.print-table td,
+.print-table tr {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+.print-table-font {
+    font-size: 16px;
+}
+
+.w-20 {
+    width: 20px;
+}
+
+.w-60-p {
+    width: 60%;
+}
+
+.w-65 {
+    width: 65px;
+}
+
+.font-size-22 {
+    font-size: 22px;
+}
+
+.font-size-18 {
+    font-size: 18px;
+}
+.stock-up-code {
+    position: absolute;
+    left: 0;
+}
+
+.bar-code {
+    display: inline-block;
+}
+
+td.no-left-border {
+    border-left: none !important;
+}
+
+td.no-right-border {
+    border-right: none !important;
+}
+
+td.no-padding {
+    padding: 0 5px !important;
+}
+
+.w-89 {
+    width: 89px;
+}
+
+.w-66 {
+    width: 66px;
+}
+
+.w-194 {
+    width: 194px;
+}
+
+.w-34 {
+    width: 34px;
+}
+
+.w-66 {
+    width: 66px;
+}
+
+.w-82 {
+    width: 82px;
+}
+
+.cut-word {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.font-big-2 {
+    font-size: 15px;
+}
+
+.h-30 {
+    height: 30px;
+}
+
+.remark-row {
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.w-47-p {
+    width: 47%;
+}
+.w-50-p {
+    width: 50%;
+}
+
+.hotline {
+    text-align: right;
+    vertical-align: bottom;
+}
+.tabel-margin-bottom {
+    margin-bottom: 10px;
+}

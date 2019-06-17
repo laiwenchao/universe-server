@@ -1,0 +1,23 @@
+version: v1
+common:
+  tools:
+    oracle-jdk: 8 # 版本根据应用自己情况填写, 支持6/7/8
+build:
+  tools:
+    maven: 3.3.3
+  run:
+    workDir: ./universe-server-web       # workDir是代码仓库的相对目录
+    cmd:
+      - sh ./deploy/mvn_build.sh
+  target:
+    distDir: ./universe-server-web/target # distDir是代码仓库的相对目录
+    files:          # files中的文件描述是相对distDir的
+          - ./*.jar
+          - ../deploy
+
+autodeploy:
+    targetDir: /opt/server/www/universe-server-web # 表示编译结果即build中的target的部署目录,gravityweb为应用名, 业务上填写为自己的应用名
+    run: sh ./deploy/run.sh
+    check: sh ./deploy/check.sh   # 必须修改, mtgravity-gravityweb修改为自己的module名
+    checkRetry: 30 # 默认值为1
+    checkInterval: 8s # 默认值1s
