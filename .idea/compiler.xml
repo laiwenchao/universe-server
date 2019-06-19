@@ -7,11 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="universe-server-api" />
-        <module name="universe-server-business" />
         <module name="universe-server-web" />
+        <module name="universe-server-business" />
         <module name="universe-sever-base" />
+        <module name="universe-server-api" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="universe-server-api" options="-parameters" />
+      <module name="universe-server-business" options="-parameters" />
+      <module name="universe-server-web" options="-parameters" />
+      <module name="universe-sever-base" options="-parameters" />
+    </option>
   </component>
 </project>
