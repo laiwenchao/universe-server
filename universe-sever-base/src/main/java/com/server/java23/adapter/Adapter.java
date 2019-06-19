@@ -1,7 +1,7 @@
 package com.server.java23.adapter;
 
 /**
- * 适配器类
+ * 适配器角色
  */
 public class Adapter implements Target {
 

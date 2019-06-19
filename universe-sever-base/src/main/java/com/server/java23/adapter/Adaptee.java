@@ -1,5 +1,8 @@
 package com.server.java23.adapter;
 
+/**
+ * 源角色
+ */
 public class Adaptee {
 
     /**

@@ -1,5 +1,8 @@
 package com.server.java23.adapter;
 
+/**
+ * 目标角色
+ */
 public interface Target {
     /**
      * 原有方法
