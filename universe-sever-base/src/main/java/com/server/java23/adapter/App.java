@@ -11,7 +11,7 @@ import java.io.*;
 public class App {
     public static void main(String[] args) {
         Adaptee adaptee = new Adaptee();
-        Target target = new Adapter(adaptee);//Adapter是一个适配器
+        Target target = new Adapter(adaptee);//Adapter是一个适配器，它让Adaptee的api变成了Target的api
         target.originMethod();//有原有的方法
         target.targetMethod();//还有了目标的方法
     }
