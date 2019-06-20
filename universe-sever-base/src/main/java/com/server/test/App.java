@@ -1,6 +1,5 @@
 package com.server.test;
 
-import com.google.common.collect.Lists;
 import com.server.test.domin.Card;
 
 import java.util.Arrays;
