@@ -14,7 +14,6 @@ import java.util.List;
 public class App {
 
     public static void main(String[] args) {
-        //test1();
         System.out.println("fdfd");
     }
 
