@@ -24,4 +24,10 @@ public interface AbstractFactory {
      * @return
      */
     Vegetables createVegetable();
+
+    /**
+     * ...可以继续添加产品类型
+     *
+     */
+    //Tree createTree();
 }
