@@ -1,6 +1,9 @@
 package com.server.java23.decorator;
 
-import java.io.*;
+
+import com.server.java23.decorator.impl.Jacket;
+import com.server.java23.decorator.impl.Man;
+import com.server.java23.decorator.impl.WaistCoat;
 
 /**
  * 装饰模式
@@ -11,7 +14,8 @@ import java.io.*;
  * 用意是保持接口，从而增强所考虑对象的性能
  */
 public class App {
-    public static void main(String[] args) throws Exception {
-
+    public static void main(String[] args) {
+        Person person = new WaistCoat(new Jacket(new Man()));
+        person.wear();
     }
 }
