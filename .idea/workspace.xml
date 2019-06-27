@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7376db67-84a2-4173-b7b2-182681023483" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouseProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/soundcode/MapCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/soundcode/MapCode.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,126 +26,111 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/GoHome.java">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/BuyHouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/Clothing.java">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouseProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/App.java">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="98">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/Person.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="192">
+              <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Man.java">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/DynamicProxyHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-              <folding>
-                <element signature="e#285#286#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/WaistCoat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="341">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Jacket.java">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/BuyHouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            <state relative-caret-position="209">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/CustomerHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/Vehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Train.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -159,7 +147,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>list</find>
       <find>com.google.guava</find>
       <find>equals(</find>
       <find>equals(O</find>
@@ -189,6 +176,7 @@
       <find>hashCode(</find>
       <find>guava</find>
       <find>spring-boot</find>
+      <find>entrySet</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -197,16 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/simple/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/simple/App.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/general/GeneralFactory.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/general/AppleFactory.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/general/OrangeFactory.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/general/App.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/NorthFruit.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/SorthFruit.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/SorthVegetables.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/NorthVegetables.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/Vegetables.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/Fruit.java" />
@@ -219,7 +197,6 @@
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/adapter/Adapter.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/adapter/App.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/test/App.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/impl/NorthFruitFactory.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/domain/SorthAppleFruit.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/domain/NorthApple.java" />
@@ -248,6 +225,17 @@
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/App.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/WaistCoat.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Jacket.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/BuyHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouseProxy.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/BuyHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/DynamicProxyHandler.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/CustomerHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/App.java" />
       </list>
     </option>
   </component>
@@ -298,11 +286,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="18" />
-    <option name="y" value="33" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="26" />
     <option name="width" value="1440" />
-    <option name="height" value="813" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -310,7 +297,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -322,41 +308,6 @@
             <path>
               <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-server-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-server-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-server-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-server-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-server-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
               <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -408,7 +359,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="java23" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
@@ -419,7 +370,32 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="java23" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicproxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
+              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="java23" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="staticproxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
+              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="java23" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="staticproxy" type="462c0819:PsiDirectoryNode" />
               <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -436,6 +412,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -443,6 +420,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -451,12 +429,15 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.server.java23.proxy.dynamicproxy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl" />
       <recent name="$PROJECT_DIR$/universe-sever-base/src/main/resources" />
       <recent name="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/util" />
       <recent name="$PROJECT_DIR$/universe-server-web/src/main/java" />
       <recent name="$PROJECT_DIR$/universe-server-web/src/main/resources" />
-      <recent name="$PROJECT_DIR$/universe-server-web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -471,7 +452,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (2)">
+  <component name="RunManager" selected="Application.App (3)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.server.test.App" />
       <module name="universe-sever-base" />
@@ -500,13 +481,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.server.java23.adapter.App" />
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.server.java23.proxy.dynamicproxy.App" />
       <module name="universe-sever-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.server.java23.adapter.*" />
+          <option name="PATTERN" value="com.server.java23.proxy.dynamicproxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,6 +516,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.server.java23.factory.abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.server.java23.proxy.staticproxy.App" />
+      <module name="universe-sever-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.server.java23.proxy.staticproxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -573,19 +568,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.App (1)" />
-      <item itemvalue="Application.App (4)" />
-      <item itemvalue="Spring Boot.Application" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (5)" />
       <item itemvalue="Application.App (2)" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Application.App (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (5)" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.App (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -638,18 +633,19 @@
       <workItem from="1561021195474" duration="1470000" />
       <workItem from="1561113695665" duration="725000" />
       <workItem from="1561361009528" duration="1791000" />
-      <workItem from="1561540223517" duration="9026000" />
+      <workItem from="1561540223517" duration="9188000" />
+      <workItem from="1561621956935" duration="6770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148957000" />
+    <option name="totallyTimeSpent" value="155889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984756" visible="true" weight="0.26752505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984756" visible="true" weight="0.24177396" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -657,13 +653,13 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.2433735" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.2433735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32596686" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.20963855" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.18915662" />
       <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928468" weight="0.32289156" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -683,132 +679,20 @@
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info anchor="right" id="Maven Projects" order="10" weight="0.3297568" />
       <window_info anchor="right" id="Maven" order="11" weight="0.3297568" />
-      <window_info anchor="right" id="Structure" order="12" sideWeight="0.5015244" weight="0.2639485" />
+      <window_info anchor="right" id="Structure" order="12" sideWeight="0.5015244" weight="0.20386267" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10127">
-          <caret line="559" column="8" selection-start-line="559" selection-start-column="8" selection-end-line="559" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/guava/cache/CacheBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/domain/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/adapter/Adaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/adapter/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/adapter/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="531" column="5" selection-start-line="531" selection-start-column="5" selection-end-line="531" selection-end-column="5" />
-          <folding>
-            <element signature="e#2279#2280#0" expanded="true" />
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2469#2470#0" expanded="true" />
-            <element signature="e#2503#2504#0" expanded="true" />
-            <element signature="e#6210#6211#0" expanded="true" />
-            <element signature="e#6267#6268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/domain/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/domain/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-server-web/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-server-web/src/main/resources/application-dev.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-server-web/src/main/resources/application-prod.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-server-web/src/main/resources/log4j2-dev.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-server-web/src/main/resources/META-INF/app.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-server-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/domain/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1013,17 +897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Airplane.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1035,24 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Train.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/GoHome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1060,18 +915,9 @@
           <folding>
             <element signature="e#124#125#0" expanded="true" />
             <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
             <element signature="e#265#266#0" expanded="true" />
             <element signature="e#303#304#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1087,37 +933,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/WaistCoat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Jacket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1126,17 +955,228 @@
         <state relative-caret-position="247">
           <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding>
-            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/App.java">
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Jacket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="380">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Train.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="5" selection-start-line="4" selection-start-column="19" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/WaistCoat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="58" column="47" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+          <folding>
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+            <element signature="e#2786#2787#0" expanded="true" />
+            <element signature="e#2837#2838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="359" column="8" lean-forward="true" selection-start-line="359" selection-start-column="8" selection-end-line="359" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#21108#21109#0" expanded="true" />
+            <element signature="e#21135#21136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#171#187#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouseProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/BuyHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouseProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/DynamicProxyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/CustomerHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/BuyHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
           </folding>
         </state>
       </provider>
