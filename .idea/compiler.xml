@@ -13,6 +13,13 @@
         <module name="universe-sever-base" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="universe" target="1.8" />
+      <module name="universe-server-api" target="1.8" />
+      <module name="universe-server-business" target="1.8" />
+      <module name="universe-server-web" target="1.8" />
+      <module name="universe-sever-base" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
