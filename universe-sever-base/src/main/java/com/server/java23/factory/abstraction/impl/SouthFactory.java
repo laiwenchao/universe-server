@@ -1,17 +1,14 @@
 package com.server.java23.factory.abstraction.impl;
 
-import com.server.java23.factory.abstraction.domain.*;
 import com.server.java23.factory.abstraction.AbstractFactory;
-import com.server.java23.factory.domain.Apple;
-import com.server.java23.factory.domain.Orange;
+import com.server.java23.factory.abstraction.domain.*;
 
 /**
- * @Description: 北方工厂，创建北方的水果和蔬菜
+ * @Description: 南方工厂，创建南方的水果和蔬菜
  * @Author: laiwenchao02
  * @Date: 2019/6/18 下午9:57
  */
-public class NorthFactory implements AbstractFactory {
-
+public class SouthFactory implements AbstractFactory {
     @Override
     public Fruit createFruit(String name) {
         switch (name) {
@@ -25,6 +22,6 @@ public class NorthFactory implements AbstractFactory {
 
     @Override
     public Vegetables createVegetable() {
-        return new NorthCabbage();
+        return new SouthCabbage();
     }
 }

@@ -1,27 +1,33 @@
 package com.server.java23.factory.abstraction;
 
-import com.server.java23.factory.Fruit;
-import com.server.java23.factory.abstraction.impl.NorthFactory;
-import com.server.java23.factory.abstraction.impl.SorthFactory;
+import com.server.java23.factory.abstraction.domain.Fruit;
+import com.server.java23.factory.abstraction.domain.Vegetables;
 
 /**
- * @Description:
+ * @Description: 抽象工厂，可以生产多个产品；例如：创建水果和蔬菜；但是每个产品都是一系列的，比如都是北方的；
+ *               工厂方法只能生产一个产品例如都是水果；
  * @Author: laiwenchao02
  * @Date: 2019/6/18 下午9:06
  */
 public interface AbstractFactory {
 
     /**
-     * 创建北方水果
+     * 创建水果
      *
      * @return
      */
-    NorthFactory northFactory();
+    Fruit createFruit(String name);
 
     /**
-     * 创建南方水果
+     * 创建蔬菜
      *
      * @return
      */
-    SorthFactory sorthFactory();
+    Vegetables createVegetable();
+
+    /**
+     * ...可以继续添加产品类型
+     *
+     */
+    //Tree createTree();
 }

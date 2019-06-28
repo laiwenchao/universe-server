@@ -1,4 +1,4 @@
-package com.server.java23.factory.abstraction;
+package com.server.java23.factory.abstraction.domain;
 
 /**
  * @Description:

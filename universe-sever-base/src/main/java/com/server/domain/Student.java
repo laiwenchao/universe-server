@@ -14,4 +14,8 @@ public class Student {
     private String name;
     private Integer age;
     private String gender;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 789468ea0ff5751851068dbb323f8556a4c77db8
 }

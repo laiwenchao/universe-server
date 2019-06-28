@@ -1,15 +1,13 @@
 package com.server.java23.factory.abstraction.domain;
 
-import com.server.java23.factory.abstraction.Vegetables;
-
 /**
- * @Description:
+ * @Description: 南方包菜
  * @Author: laiwenchao02
  * @Date: 2019/6/18 下午10:03
  */
-public class SorthVegetables implements Vegetables {
+public class SouthCabbage implements Vegetables {
     @Override
     public void taste() {
-        System.out.println("很甜");
+        System.out.println("南方的包菜很甜");
     }
 }
