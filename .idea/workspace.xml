@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7376db67-84a2-4173-b7b2-182681023483" name="Default" comment="" />
+    <list default="true" id="7376db67-84a2-4173-b7b2-182681023483" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-server-api/universe-server-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-server-business/universe-server-business.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-server-web/universe-server-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/medium/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/SingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/medium/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/universe-sever-base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/domain/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/java23/proxy/dynamicproxy/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/java23/proxy/dynamicproxy/App.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/universe-server-business/target/" />
@@ -20,15 +43,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/BuyHouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouseProxy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -38,33 +52,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="344">
               <caret line="34" column="45" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="662">
+              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+              <folding>
+                <element signature="e#10378#10382#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/SingleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -72,13 +114,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/DynamicProxyHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
+            <state relative-caret-position="475">
               <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
                 <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
                 <element signature="e#814#815#0" expanded="true" />
               </folding>
             </state>
@@ -99,33 +141,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -302,6 +317,11 @@
             <path>
               <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="universe-server" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
               <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -332,7 +352,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
@@ -341,8 +361,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="java23" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
@@ -351,56 +371,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="java23" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="java23" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicproxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="java23" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="staticproxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="java23" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="staticproxy" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="soundcode" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="link" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -565,8 +538,8 @@
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (5)" />
       <item itemvalue="Application.App (2)" />
-      <item itemvalue="Spring Boot.Application" />
       <item itemvalue="Application.App (3)" />
+      <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
@@ -633,13 +606,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156111000" />
+    <option name="totallyTimeSpent" value="156195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984756" visible="true" weight="0.24177396" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984756" visible="true" weight="0.2453505" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -653,7 +626,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.18915662" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.23855421" />
       <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928468" weight="0.32289156" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -680,49 +653,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/domain/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/domain/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/domain/SouthOrange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/impl/NorthFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="22" column="20" selection-start-line="16" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/impl/SouthFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -1060,30 +990,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouseProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouseProxy.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouse.java" />
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/BuyHouse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1093,14 +1001,14 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="8037">
           <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="12521">
           <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
         </state>
       </provider>
@@ -1114,7 +1022,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="342">
           <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1126,12 +1034,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1151,13 +1053,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/DynamicProxyHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
+        <state relative-caret-position="475">
           <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
             <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
             <element signature="e#814#815#0" expanded="true" />
           </folding>
         </state>
@@ -1169,8 +1071,44 @@
           <caret line="34" column="45" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/SingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="e#10378#10382#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/universe.iml" filepath="$PROJECT_DIR$/universe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-server-api/universe-server-api.iml" filepath="$PROJECT_DIR$/universe-server-api/universe-server-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-server-business/universe-server-business.iml" filepath="$PROJECT_DIR$/universe-server-business/universe-server-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-server-web/universe-server-web.iml" filepath="$PROJECT_DIR$/universe-server-web/universe-server-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-sever-base/universe-sever-base.iml" filepath="$PROJECT_DIR$/universe-sever-base/universe-sever-base.iml" />
+    </modules>
+  </component>
+</project>
