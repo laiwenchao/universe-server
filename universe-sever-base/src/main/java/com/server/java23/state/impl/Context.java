@@ -10,7 +10,7 @@ import com.server.java23.state.LiftState;
  */
 public class Context {
 
-    //定义出所有的电梯状态
+    //定义出所有的电梯状态,实际工程中可用@Resource
     public final static OpenningState OPENNING_STATE = new OpenningState();
     public final static CloseingState CLOSEING_STATE = new CloseingState();
     public final static RunningState RUNNING_STATE = new RunningState();

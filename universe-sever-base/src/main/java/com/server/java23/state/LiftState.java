@@ -11,7 +11,7 @@ import com.server.java23.state.impl.Context;
 public abstract class LiftState {
 
     //定义一个环境角色，也就是封装状态的变换引起的功能变化
-    protected Context context;
+    protected Context context;//为了改变状态，可以没有
 
     public abstract void open();
 
