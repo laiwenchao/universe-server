@@ -7,19 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="universe-server-api" />
-        <module name="universe-server-business" />
         <module name="universe-server-web" />
+        <module name="universe-server-business" />
         <module name="universe-sever-base" />
+        <module name="universe-server-api" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="universe" target="1.8" />
-      <module name="universe-server-api" target="1.8" />
-      <module name="universe-server-business" target="1.8" />
-      <module name="universe-server-web" target="1.8" />
-      <module name="universe-sever-base" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
