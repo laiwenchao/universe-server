@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4ecba7ae-0b0a-434e-bb23-77976c3d2858" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -10,11 +11,16 @@
       <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/ListNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/SingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/SingleLinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/Test1.class" afterDir="false" />
+=======
+    <list default="true" id="7376db67-84a2-4173-b7b2-182681023483" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
     </list>
-    <ignored path="$PROJECT_DIR$/universe-server-business/target/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/universe-server-api/target/" />
+    <ignored path="$PROJECT_DIR$/universe-server-business/target/" />
     <ignored path="$PROJECT_DIR$/universe-server-web/target/" />
+    <ignored path="$PROJECT_DIR$/universe-server-api/target/" />
     <ignored path="$PROJECT_DIR$/universe-sever-base/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,52 +28,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/SingleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="7" column="29" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="29" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/template/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
               <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/ListNode.java">
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="266">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,10 +69,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test1.java">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/LiftState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+<<<<<<< HEAD
+            <state relative-caret-position="147">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+=======
+            <state relative-caret-position="247">
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/OpenningState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+              </folding>
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/CloseingState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,7 +124,31 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+=======
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/RunningState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding>
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/utils/NodeListUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="155">
@@ -95,23 +156,45 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/StopState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/Context.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="33" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/LiftStateEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/template/impl/EggsWithTomatoCooking.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -123,14 +206,55 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.google.guava</find>
+      <find>equals(</find>
+      <find>equals(O</find>
+      <find>equals(Object</find>
+      <find>public static</find>
+      <find>mag =</find>
+      <find>hash =</find>
+      <find>com.meituan</find>
+      <find>@author</find>
+      <find>com.s</find>
+      <find>com.dianping</find>
+      <find>com.sankuai</find>
+      <find>dianping</find>
+      <find>spring</find>
+      <find>com.alibaba:fastjson</find>
+      <find>aliba</find>
+      <find>&gt;org.apache</find>
+      <find>google</find>
+      <find>sankuai</find>
+      <find>meituan</find>
+      <find>cat</find>
+      <find>springframework.boot</find>
+      <find>bao</find>
+      <find>@author:</find>
+      <find>mybatis</find>
+      <find>hashcode(</find>
+      <find>hashCode(</find>
+      <find>guava</find>
+      <find>spring-boot</find>
+      <find>entrySet</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="laiwenchao02 &lt;15727338538@163.com&gt;" />
+        <option value="laiwenchao &lt;15727338538@163.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/universe-sever-base/pom.xml" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/domain/Student.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/App.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/ListNode.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/Test1.java" />
@@ -147,6 +271,111 @@
     <option name="y" value="-8" />
     <option name="width" value="1626" />
     <option name="height" value="810" />
+=======
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/domain/NorthCabbage.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/domain/SorthCabbage.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/impl/SouthFactory.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/general/Creator.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/factory/abstraction/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Train.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Car.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Airplane.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/GoHome.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/Vehicle.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Man.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/Person.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/Clothing.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/WaistCoat.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Jacket.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/BuyHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouseProxy.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/BuyHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/DynamicProxyHandler.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/CustomerHouse.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/common/ListNode.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/common/SingleLinkedListProxy.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/common/SingleLinked.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/common/SingleLinkedListAdapter.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/adapter/SingleLinkedListAdapter.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/adapter/SingleLinked.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/common/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/Test1.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/adapter/SingleLinkedListWrapper.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/template/CookingTemplate.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/template/impl/EggsWithTomatoCooking.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/template/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/LiftStateEnum.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/CloseingState.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/OpenningState.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/RunningState.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/StopState.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/App.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/Context.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/LiftState.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="universe" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="universe" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="universe-server-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="universe-server-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="universe-sever-base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="universe-sever-base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -163,6 +392,7 @@
               <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="universe-server" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="universe-server" type="462c0819:PsiDirectoryNode" />
@@ -307,6 +537,8 @@
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
           </expand>
           <select />
         </subPane>
@@ -314,9 +546,35 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561999322263" />
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.server.java23.proxy.dynamicproxy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl" />
+      <recent name="$PROJECT_DIR$/universe-sever-base/src/main/resources" />
+      <recent name="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/util" />
+      <recent name="$PROJECT_DIR$/universe-server-web/src/main/java" />
+      <recent name="$PROJECT_DIR$/universe-server-web/src/main/resources" />
+    </key>
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -330,13 +588,74 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Test1 (2)">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.link.App" />
+=======
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.server.java23.template.App" />
       <module name="universe-sever-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.link.*" />
+          <option name="PATTERN" value="com.server.java23.template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.server.java23.decorator.App" />
+      <module name="universe-sever-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.server.java23.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.server.java23.proxy.dynamicproxy.App" />
+      <module name="universe-sever-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.server.java23.proxy.dynamicproxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.server.java23.state.App" />
+      <module name="universe-sever-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.server.java23.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.server.java23.proxy.staticproxy.App" />
+      <module name="universe-sever-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.server.java23.proxy.staticproxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,6 +692,7 @@
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.link.Test1" />
       <module name="universe-sever-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.leetcode.link.*" />
@@ -383,6 +703,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.link.easy.Test2" />
       <module name="universe-sever-base" />
@@ -392,17 +713,61 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test1 (2)" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1 (1)" />
         <item itemvalue="Application.Test1" />
+=======
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="universe-server-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App (2)" />
+      <item itemvalue="Application.App (3)" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.App (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -411,6 +776,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="4ecba7ae-0b0a-434e-bb23-77976c3d2858" name="Default Changelist" comment="" />
       <created>1561730762202</created>
       <option name="number" value="Default" />
@@ -419,10 +785,60 @@
       <workItem from="1561730768708" duration="11040000" />
       <workItem from="1561900345148" duration="5877000" />
       <workItem from="1561992914854" duration="5826000" />
+=======
+      <changelist id="7376db67-84a2-4173-b7b2-182681023483" name="Default" comment="" />
+      <created>1550908288197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550908288197</updated>
+      <workItem from="1550908292040" duration="7471000" />
+      <workItem from="1552039993075" duration="64000" />
+      <workItem from="1552040083049" duration="2672000" />
+      <workItem from="1552360413086" duration="4310000" />
+      <workItem from="1552632423634" duration="3247000" />
+      <workItem from="1552655010568" duration="1949000" />
+      <workItem from="1552991030803" duration="16000" />
+      <workItem from="1552991072048" duration="19452000" />
+      <workItem from="1553500941433" duration="23000" />
+      <workItem from="1553500989041" duration="13256000" />
+      <workItem from="1553600328770" duration="40603000" />
+      <workItem from="1553743218129" duration="7768000" />
+      <workItem from="1553843735424" duration="1637000" />
+      <workItem from="1553864377785" duration="613000" />
+      <workItem from="1554384448745" duration="47000" />
+      <workItem from="1554385508128" duration="29000" />
+      <workItem from="1554386700719" duration="717000" />
+      <workItem from="1554991314198" duration="576000" />
+      <workItem from="1555052707816" duration="88000" />
+      <workItem from="1555406703864" duration="87000" />
+      <workItem from="1555937236973" duration="2271000" />
+      <workItem from="1556197262112" duration="1943000" />
+      <workItem from="1556432444374" duration="7199000" />
+      <workItem from="1556774484889" duration="673000" />
+      <workItem from="1557397163755" duration="14000" />
+      <workItem from="1557397202298" duration="2472000" />
+      <workItem from="1557477096719" duration="969000" />
+      <workItem from="1559306584611" duration="533000" />
+      <workItem from="1559722761885" duration="663000" />
+      <workItem from="1560771748740" duration="3457000" />
+      <workItem from="1560775321054" duration="2119000" />
+      <workItem from="1560778823731" duration="260000" />
+      <workItem from="1560827578476" duration="9000" />
+      <workItem from="1560859305589" duration="1406000" />
+      <workItem from="1560862820736" duration="3490000" />
+      <workItem from="1561018734923" duration="773000" />
+      <workItem from="1561021195474" duration="1470000" />
+      <workItem from="1561113695665" duration="725000" />
+      <workItem from="1561361009528" duration="1791000" />
+      <workItem from="1561540223517" duration="9188000" />
+      <workItem from="1561621956935" duration="6992000" />
+      <workItem from="1561969852770" duration="35000" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="18754000" />
   </component>
   <component name="ToolWindowManager">
@@ -437,13 +853,28 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+=======
+    <option name="totallyTimeSpent" value="165745000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984756" visible="true" weight="0.24892704" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23318872" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30151844" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.2433735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32596686" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.37960956" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
@@ -461,44 +892,252 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.23855421" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928468" weight="0.32289156" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007153" side_tool="true" weight="0.24363637" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="CDI" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.3297568" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.3297568" />
+      <window_info anchor="right" id="Structure" order="12" sideWeight="0.5015244" weight="0.20386267" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="文件合并" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件合并" />
+  </component>
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/universe-sever-base.iml">
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="380">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_2.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_7.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Airplane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-861">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="133">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/GoHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/Clothing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Jacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/strategy/impl/Train.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="5" selection-start-line="4" selection-start-column="19" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/WaistCoat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="58" column="47" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+          <folding>
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+            <element signature="e#2786#2787#0" expanded="true" />
+            <element signature="e#2837#2838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="359" column="8" lean-forward="true" selection-start-line="359" selection-start-column="8" selection-end-line="359" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#21108#21109#0" expanded="true" />
+            <element signature="e#21135#21136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#171#187#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouseProxy.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/impl/CustomerHouse.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/BuyHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8037">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12521">
+          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -515,10 +1154,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/thriftCompiler.xml">
       <provider selected="true" editor-type-id="text-editor" />
+=======
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/SingleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -553,12 +1208,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+=======
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/staticproxy/impl/CustomerHouseProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/CustomerHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/BuyHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/DynamicProxyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/proxy/dynamicproxy/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="45" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
@@ -575,16 +1272,183 @@
           <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/adapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/adapter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/adapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/adapter/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/common/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/common/SingleLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/adapter/SingleLinked.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/adapter/SingleLinkedListWrapper.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/template/CookingTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
           <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/template/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/OpenningState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/CloseingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/RunningState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/StopState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/impl/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/LiftStateEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/template/impl/EggsWithTomatoCooking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/state/LiftState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+>>>>>>> bc4be259ac1df6e5c8481e6cb2ab79a4fb950b43
           </folding>
         </state>
       </provider>
@@ -592,30 +1456,6 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -639,14 +1479,13 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ModuleStructureConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>universe</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -654,7 +1493,17 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.alibaba:fastjson:1.2.29</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
