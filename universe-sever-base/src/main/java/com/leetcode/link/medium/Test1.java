@@ -10,7 +10,7 @@ import com.leetcode.link.utils.NodeListUtils;
  */
 public class Test1 {
     public static void main(String[] args) {
-        ListNode listNode = NodeListUtils.initNodeByIntArr(new int[] {5,2,4,9,3,1});
+        ListNode listNode = NodeListUtils.initNodeByIntArr(new int[] {8,4,5,7,1,3,6,2});
         ListNode result = sortListNode(listNode);
         NodeListUtils.display(result);
     }
@@ -33,6 +33,7 @@ public class Test1 {
 
         ListNode l1 = sortListNode(head);
         ListNode l2 = sortListNode(slow);
+
         NodeListUtils.display(l1);
         NodeListUtils.display(l2);
         ListNode result = merge(l1,l2);
