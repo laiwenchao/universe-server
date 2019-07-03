@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9d35c30-b731-4366-86ba-9c64352c154a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/medium/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/medium/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/soundcode/MapCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/soundcode/MapCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-sever-base/universe-sever-base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/ConcurrentHashMapCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/ConcurrentHashMapCode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,24 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#358#375#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/ConcurrentHashMapCode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -65,11 +48,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="258">
               <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/utils/NodeListUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -86,47 +105,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="934" column="11" selection-start-line="934" selection-start-column="11" selection-end-line="934" selection-end-column="11" />
+            <state relative-caret-position="233">
+              <caret line="939" column="22" lean-forward="true" selection-start-line="939" selection-start-column="22" selection-end-line="939" selection-end-column="22" />
               <folding>
                 <element signature="e#32334#32335#0" expanded="true" />
                 <element signature="e#32385#32386#0" expanded="true" />
                 <element signature="e#35002#35032#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="584" column="5" lean-forward="true" selection-start-line="584" selection-start-column="5" selection-end-line="584" selection-end-column="5" />
-              <folding>
-                <element signature="e#19327#19328#0" expanded="true" />
-                <element signature="e#19410#19411#0" expanded="true" />
-                <element signature="e#24331#24332#0" expanded="true" />
-                <element signature="e#24396#24397#0" expanded="true" />
-                <element signature="e#27879#27922#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/WaistCoat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -155,8 +140,8 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/ConcurrentHashMapCode.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test1.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/ConcurrentHashMapCode.java" />
       </list>
     </option>
   </component>
@@ -267,7 +252,30 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="link" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
+              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
+              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="soundcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -340,12 +348,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562067908977</updated>
-      <workItem from="1562067911121" duration="4429000" />
+      <workItem from="1562067911121" duration="4810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10608000" />
+    <option name="totallyTimeSpent" value="10989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -360,12 +368,12 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.16987951" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.16987951" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32596686" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.0665742" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.45301205" />
       <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928468" weight="0.32289156" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -589,25 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="934" column="11" selection-start-line="934" selection-start-column="11" selection-end-line="934" selection-end-column="11" />
-          <folding>
-            <element signature="e#32334#32335#0" expanded="true" />
-            <element signature="e#32385#32386#0" expanded="true" />
-            <element signature="e#35002#35032#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/ConcurrentHashMapCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -629,10 +618,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/utils/NodeListUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="939" column="22" lean-forward="true" selection-start-line="939" selection-start-column="22" selection-end-line="939" selection-end-column="22" />
+          <folding>
+            <element signature="e#32334#32335#0" expanded="true" />
+            <element signature="e#32385#32386#0" expanded="true" />
+            <element signature="e#35002#35032#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/ConcurrentHashMapCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
