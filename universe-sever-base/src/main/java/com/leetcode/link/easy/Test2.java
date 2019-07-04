@@ -5,7 +5,7 @@ import com.leetcode.link.utils.NodeListUtils;
 
 /**
  * @Author laiwenchao
- * @Description
+ * @Description 链表合并
  * @date 2019/6/30 21:46
  */
 public class Test2 {
