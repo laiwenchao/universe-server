@@ -7,6 +7,11 @@ import com.leetcode.link.utils.NodeListUtils;
  * @author laiwenchao
  * @Classname Test3
  * @Description 两数之和
+ * 输入
+ * 2->4->3
+ * 5->6->4
+ * 输出
+ * 7->0->8
  * @Date 2019-07-05 16:59
  */
 public class Test3 {
