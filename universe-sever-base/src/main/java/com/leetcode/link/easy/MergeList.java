@@ -8,7 +8,7 @@ import com.leetcode.link.utils.NodeListUtils;
  * @Description 链表合并
  * @date 2019/6/30 21:46
  */
-public class Test2 {
+public class MergeList {
     public static void main(String[] args) {
         ListNode listNode1 = NodeListUtils.initNodeByIntArr(new int[]{1, 4, 6});
         ListNode listNode2 = NodeListUtils.initNodeByIntArr(new int[]{2, 3, 4, 7, 9});
