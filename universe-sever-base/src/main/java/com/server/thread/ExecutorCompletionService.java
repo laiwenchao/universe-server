@@ -8,5 +8,11 @@ package com.server.thread;
 public class ExecutorCompletionService {
     public static void main(String[] args) {
         ExecutorCompletionService service = new ExecutorCompletionService();
+        try {
+            service.wait();
+            service.notify();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 }
