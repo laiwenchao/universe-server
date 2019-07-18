@@ -10,12 +10,12 @@ import com.leetcode.link.utils.NodeListUtils;
  */
 public class SortList {
     public static void main(String[] args) {
-        ListNode listNode = NodeListUtils.initNodeByIntArr(new int[] {8,4,5,7,1,3,6,2});
-        /*ListNode result = mergeSort(listNode);
-        NodeListUtils.display(result);*/
+        ListNode listNode = NodeListUtils.initNodeByIntArr(new int[] {4,8,2,5,9,1,6});
+        ListNode result = mergeSort(listNode);
+        NodeListUtils.display(result);
     }
 
-    /*public static ListNode mergeSort(ListNode head) {
+    public static ListNode mergeSort(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
@@ -27,8 +27,8 @@ public class SortList {
         }
         ListNode l1 = mergeSort(slow);
         ListNode l2 = mergeSort(fast);
-        merge(l1, l2);
-        return null;
+        ListNode result = merge(l1, l2);
+        return result;
     }
 
     public static ListNode merge(ListNode l1, ListNode l2) {
@@ -39,8 +39,7 @@ public class SortList {
                 cur.next = l1;
                 l1 = l1.next;
                 cur = cur.next;
-            }
-            if (l1.val > l2.val) {
+            }else {
                 cur.next = l2;
                 l2 = l2.next;
                 cur = cur.next;
@@ -54,5 +53,5 @@ public class SortList {
         }
         return result.next;
 
-    }*/
+    }
 }
