@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9d35c30-b731-4366-86ba-9c64352c154a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/MaxSubArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/medium/SortList.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/link/medium/SortList.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,24 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1827">
-              <caret line="110" column="32" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/ReverseList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="399">
               <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -83,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="462">
+              <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,11 +74,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/MaxSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/ClimbStairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/RemoveDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="504">
+              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -143,6 +143,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="laiwenchao &lt;15727338538@163.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -176,6 +181,8 @@
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortList.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/TwoSum.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/ClimbStairs.java" />
       </list>
     </option>
   </component>
@@ -192,6 +199,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,14 +267,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563466925761" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563596161963" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -280,9 +287,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicates">
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.RemoveDuplicates" />
+  <component name="RunManager" selected="Application.MaxSubArray">
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.MaxSubArray" />
       <module name="universe-sever-base" />
       <extension name="coverage">
         <pattern>
@@ -294,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.link.medium.RotateList" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.RemoveDuplicates" />
       <module name="universe-sever-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.link.medium.*" />
+          <option name="PATTERN" value="com.leetcode.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,19 +354,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RotateList" />
       <item itemvalue="Application.SameList" />
       <item itemvalue="Application.SortList" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.RemoveDuplicates" />
+      <item itemvalue="Application.MaxSubArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSubArray" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.SortList" />
         <item itemvalue="Application.SameList" />
-        <item itemvalue="Application.RotateList" />
       </list>
     </recent_temporary>
   </component>
@@ -379,18 +386,26 @@
       <workItem from="1562317135721" duration="2597000" />
       <workItem from="1562486160853" duration="20695000" />
       <workItem from="1563289761258" duration="603000" />
-      <workItem from="1563462737671" duration="2988000" />
+      <workItem from="1563462737671" duration="3054000" />
+      <workItem from="1563587430226" duration="5856000" />
     </task>
+    <task id="LOCAL-00001" summary="数组">
+      <created>1563466988187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563466988187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44430000" />
+    <option name="totallyTimeSpent" value="50352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984756" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984756" visible="true" weight="0.26066098" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -399,12 +414,12 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.14099783" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.14099783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27006507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.34815618" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.34815618" />
       <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928468" weight="0.32212582" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -430,21 +445,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/guava/cache/CacheBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java8/MapBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/cache/CacheBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -744,6 +749,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/SameList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
@@ -764,30 +779,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortList.java">
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="462">
+          <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/TwoSum.java">
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/MaxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="567">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="504">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/ClimbStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
