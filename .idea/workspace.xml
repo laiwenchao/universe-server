@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9d35c30-b731-4366-86ba-9c64352c154a" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/universe-sever-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/pom.xml" afterDir="false" />
@@ -12,6 +13,11 @@
       <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/effect/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/effect/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/java23/facade/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/java23/facade/Light.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/thread/ExecutorCompletionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/server/thread/ExecutorCompletionService.class" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/MaxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,6 +37,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="7695">
@@ -43,19 +50,33 @@
                 <element signature="e#15704#15705#0" expanded="true" />
                 <element signature="e#15770#15771#0" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/SignalTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/MergeList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="49" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/test/ThreadLocalTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,11 +85,19 @@
               <folding>
                 <element signature="e#1649#1657#0" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortTwoList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="52" column="25" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="25" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/transmittable-thread-local/2.6.1/transmittable-thread-local-2.6.1.jar!/com/alibaba/ttl/TtlRunnable.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -76,63 +105,123 @@
               <folding>
                 <element signature="e#2010#2011#0" expanded="true" />
                 <element signature="e#2060#2061#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/transmittable-thread-local/2.6.1/transmittable-thread-local-2.6.1.jar!/com/alibaba/ttl/TransmittableThreadLocal.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="219">
               <caret line="49" selection-start-line="49" selection-end-line="49" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/MaxSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="27" selection-end-column="13" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="328">
               <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/ClimbStairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/InheritableThreadLocal.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/RemoveDuplicates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/exception/Annoyance.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="22" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/SameList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="39" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/exception/Sneeze.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="19" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="19" />
+=======
+        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/DeleteList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </state>
           </provider>
         </entry>
@@ -151,9 +240,15 @@
       <find>table.</find>
       <find>table</find>
       <find>threshold =</find>
+      <find>base</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="laiwenchao &lt;15727338538@163.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -164,15 +259,14 @@
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test1.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/ConcurrentHashMapCode.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test2.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test2.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test1.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test3.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test3.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/Camera.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/Sensor.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/Facade.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/App.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/Light.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/thread/ExecutorCompletionService.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/thread/ThreadCode.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/effect/App.java" />
@@ -191,6 +285,33 @@
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
+=======
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test4.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test2.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/Test3.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/ReverseList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/MergeList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/DeleteList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SumList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/ChangeList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/CycleList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/CycleList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/RotateList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/SameList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortTwoList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortList.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/TwoSum.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/ClimbStairs.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3" />
+    <option name="y" value="161" />
+    <option name="width" value="1626" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
     <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -201,6 +322,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,7 +373,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
@@ -261,6 +383,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -274,6 +397,10 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
             </path>
           </expand>
           <select />
@@ -285,6 +412,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563596161963" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -298,6 +426,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.ThreadLocalTest">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.server.effect.App" />
@@ -305,6 +434,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.server.effect.*" />
+=======
+  <component name="RunManager" selected="Application.MaxSubArray">
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.MaxSubArray" />
+      <module name="universe-sever-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.array.*" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +450,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.server.App" />
       <module name="universe-sever-base" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.server.*" />
+=======
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.RemoveDuplicates" />
+      <module name="universe-sever-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.array.*" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,12 +472,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.server.java23.facade.App" />
       <module name="universe-sever-base" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.server.java23.facade.*" />
+=======
+    <configuration name="SameList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.link.easy.SameList" />
+      <module name="universe-sever-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.link.easy.*" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,8 +494,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ThreadLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.server.test.ThreadLocalTest" />
+=======
+    <configuration name="SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.link.medium.SortList" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
       <module name="universe-sever-base" />
       <extension name="coverage">
         <pattern>
@@ -351,12 +512,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.server.thread.ThreadTest" />
       <module name="universe-sever-base" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.server.thread.*" />
+=======
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.TwoSum" />
+      <module name="universe-sever-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.array.*" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,6 +535,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.App" />
       <item itemvalue="Application.ThreadTest" />
       <item itemvalue="Application.App (1)" />
@@ -378,6 +549,21 @@
         <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
+=======
+      <item itemvalue="Application.SameList" />
+      <item itemvalue="Application.SortList" />
+      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.RemoveDuplicates" />
+      <item itemvalue="Application.MaxSubArray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxSubArray" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.SortList" />
+        <item itemvalue="Application.SameList" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
       </list>
     </recent_temporary>
   </component>
@@ -394,6 +580,7 @@
       <workItem from="1562067911121" duration="5020000" />
       <workItem from="1562236355133" duration="2940000" />
       <workItem from="1562315604029" duration="214000" />
+<<<<<<< HEAD
       <workItem from="1562317135721" duration="3110000" />
       <workItem from="1562506451064" duration="313000" />
       <workItem from="1563085659626" duration="1610000" />
@@ -402,17 +589,39 @@
       <workItem from="1565680991302" duration="6111000" />
       <workItem from="1565767081874" duration="4899000" />
       <workItem from="1565851861348" duration="1983000" />
+=======
+      <workItem from="1562317135721" duration="2597000" />
+      <workItem from="1562486160853" duration="20695000" />
+      <workItem from="1563289761258" duration="603000" />
+      <workItem from="1563462737671" duration="3054000" />
+      <workItem from="1563587430226" duration="5856000" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
     </task>
+    <task id="LOCAL-00001" summary="数组">
+      <created>1563466988187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563466988187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="33942000" />
+=======
+    <option name="totallyTimeSpent" value="50352000" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984756" visible="true" weight="0.22961374" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984756" visible="true" weight="0.26066098" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -420,14 +629,20 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.25060242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32596686" />
+=======
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.14099783" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27006507" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.34819278" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928468" weight="0.32289156" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.34815618" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928468" weight="0.32212582" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -452,7 +667,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组" />
+  </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -518,6 +738,12 @@
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/cache/CacheBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
         </state>
       </provider>
     </entry>
@@ -614,6 +840,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/NullPointerException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -647,6 +874,13 @@
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Object.class">
+=======
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/IllegalArgumentException.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/UnsupportedOperationException.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Map.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/decorator/impl/Man.java">
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
@@ -681,6 +915,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/effect/ObservableSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -689,6 +924,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/effect/ForwardingSet.java">
+=======
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/soundcode/MapCode.java">
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
@@ -702,6 +941,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/effect/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -710,19 +950,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/test/Test1.java">
+=======
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/SingleLinkedList.java">
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/test/Parent.java">
+=======
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/App.java">
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/test/CloneTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -748,12 +996,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="34" column="5" selection-start-line="29" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+=======
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Runnable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/utils/NodeListUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/Sensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/java23/facade/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SumList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35207">
@@ -776,10 +1109,39 @@
             <element signature="imports" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
             <element signature="e#358#359#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/ChangeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/CycleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/RotateList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4161">
@@ -827,6 +1189,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7695">
           <caret line="447" column="9" selection-start-line="447" selection-start-column="9" selection-end-line="447" selection-end-column="9" />
+=======
+    <entry file="jar://$PROJECT_DIR$/../../java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="110" column="32" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/MergeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortTwoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/SortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
           <folding>
             <element signature="e#5559#5560#0" expanded="true" />
             <element signature="e#5600#5601#0" expanded="true" />
@@ -838,6 +1241,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/server/SignalTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -907,6 +1311,56 @@
           <folding>
             <element signature="e#1649#1657#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/easy/SameList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/link/medium/DeleteList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/ClimbStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+>>>>>>> 968261c6686ef412339f6928f8820e45cac2c448
         </state>
       </provider>
     </entry>

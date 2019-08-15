@@ -11,7 +11,7 @@ import com.leetcode.link.utils.NodeListUtils;
  * null <- 1 <- 2 <- 3 <- 4
  * @date 2019/6/30 21:46
  */
-public class Test1 {
+public class ReverseList {
     public static void main(String[] args) {
         ListNode listNode = NodeListUtils.initNodeByIntArr(new int[]{5, 4, 3, 2, 1});
 
