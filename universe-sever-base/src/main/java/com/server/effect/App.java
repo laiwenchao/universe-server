@@ -8,6 +8,10 @@ package com.server.effect;
 public class App {
     public static void main(String[] args) {
 
+        ThreadLocal threadLocal = new ThreadLocal<String>();
+        System.out.println(threadLocal.get());
+        threadLocal.set("aa");
+
 
     }
 }
