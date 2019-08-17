@@ -7,10 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="universe-server-api" />
-        <module name="universe-server-business" />
         <module name="universe-server-web" />
+        <module name="universe-server-business" />
         <module name="universe-sever-base" />
+        <module name="universe-server-api" />
       </profile>
     </annotationProcessing>
   </component>

@@ -4,8 +4,10 @@ import com.server.exception.Annoyance;
 import com.server.exception.Sneeze;
 import org.springframework.util.StringUtils;
 
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
  * Hello world!
@@ -16,7 +18,27 @@ public class App
 
     public static void main( String[] args )
     {
-        LinkedList<String> list = new LinkedList<String>();
+        List<String> userNames = new CopyOnWriteArrayList<String>() {{
+            add("A");
+            add("B");
+            add("C");
+            add("D");
+        }};
+
+        Iterator it = userNames.iterator();
+
+        for (String userName : userNames) {
+            if (userName.equals("B")) {
+                userNames.remove(userName);
+            }
+        }
+
+        System.out.println(userNames);
+
+        while(it.hasNext()){
+            System.out.println(it.next());
+        }
+        System.out.println(userNames);
     }
 
     /**
