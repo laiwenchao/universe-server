@@ -18,27 +18,6 @@ public class App
 
     public static void main( String[] args )
     {
-        List<String> userNames = new CopyOnWriteArrayList<String>() {{
-            add("A");
-            add("B");
-            add("C");
-            add("D");
-        }};
-
-        Iterator it = userNames.iterator();
-
-        for (String userName : userNames) {
-            if (userName.equals("B")) {
-                userNames.remove(userName);
-            }
-        }
-
-        System.out.println(userNames);
-
-        while(it.hasNext()){
-            System.out.println(it.next());
-        }
-        System.out.println(userNames);
     }
 
     /**
