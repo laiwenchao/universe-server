@@ -1,5 +1,6 @@
 package com.server;
 
+import com.server.domain.IntegerInfo;
 import com.server.exception.Annoyance;
 import com.server.exception.Sneeze;
 import org.springframework.util.StringUtils;
@@ -16,9 +17,21 @@ import java.util.concurrent.CopyOnWriteArrayList;
 public class App 
 {
 
-    public static void main( String[] args )
-    {
+    public static void main( String[] args ) throws Exception {
+        System.out.println(32*0.75*2==32*2*0.75);
+        System.out.println(Integer.MAX_VALUE);
     }
+
+    public static void aa(int aa) throws InterruptedException {
+        int cc = aa;
+        Thread.sleep(3000);
+        System.out.println(cc);
+    }
+    public void bb(int bb){
+
+    }
+
+
 
     /**
      * @Author laiwenchao

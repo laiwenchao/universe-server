@@ -10,6 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * @Date 2019-07-03 14:11
  */
 public class ConcurrentHashMapCode {
+
     public static void main(String[] args) {
 
         new ConcurrentHashMap<String,String>();
