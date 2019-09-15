@@ -1,5 +1,9 @@
 package com.leetcode;
 
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @Author laiwenchao
  * @Description
@@ -39,6 +43,4 @@ public class App {
         return R - L - 1;
 
     }
-
-
 }
