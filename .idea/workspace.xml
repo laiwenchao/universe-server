@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaa0d308-3b7f-48b4-a54f-de8ae65fa275" name="Default Changelist" comment="" />
+    <list default="true" id="eaa0d308-3b7f-48b4-a54f-de8ae65fa275" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/BinaryFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/BinaryFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/BinaryFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/BinaryFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/string/Zstr.class" beforeDir="false" afterPath="$PROJECT_DIR$/universe-sever-base/target/classes/com/leetcode/string/Zstr.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/universe-server-business/target/" />
@@ -32,15 +37,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/RemoveDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
@@ -49,20 +45,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/BinaryFind.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="470">
+              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266">
+              <caret line="709" column="14" selection-start-line="709" selection-start-column="14" selection-end-line="709" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/string/Zstr.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="381">
-              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,8 +188,8 @@
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/dynamic/App.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/string/Strstr.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/BinaryFind.java" />
         <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/string/Zstr.java" />
+        <option value="$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/BinaryFind.java" />
       </list>
     </option>
   </component>
@@ -210,11 +215,6 @@
             <path>
               <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
               <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,27 +256,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="universe-server" type="462c0819:PsiDirectoryNode" />
-              <item name="universe-sever-base" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zstr">
+  <component name="RunManager" selected="Application.BinaryFind">
     <configuration name="BinaryFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.BinaryFind" />
       <module name="universe-sever-base" />
@@ -378,8 +357,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zstr" />
         <item itemvalue="Application.BinaryFind" />
+        <item itemvalue="Application.Zstr" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.Strstr" />
         <item itemvalue="Application.MaxSubArray" />
@@ -404,7 +383,7 @@
       <workItem from="1563289761258" duration="603000" />
       <workItem from="1563462737671" duration="3054000" />
       <workItem from="1563587430226" duration="5856000" />
-      <workItem from="1568644297317" duration="51000" />
+      <workItem from="1568644297317" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="数组">
       <created>1563466988187</created>
@@ -417,7 +396,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57780000" />
+    <option name="totallyTimeSpent" value="58105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
@@ -432,12 +411,12 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.18313253" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.1824417" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27006507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.24005488" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.14540467" />
       <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928468" weight="0.32168674" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -726,13 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14041">
-          <caret line="739" column="14" selection-start-line="739" selection-start-column="14" selection-end-line="739" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/medium/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -789,16 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/array/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -810,13 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/BinaryFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -865,10 +820,34 @@
     <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/string/Zstr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
-          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="709" column="14" selection-start-line="709" selection-start-column="14" selection-end-line="709" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universe-sever-base/src/main/java/com/leetcode/BinaryFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
         </state>
       </provider>
     </entry>
