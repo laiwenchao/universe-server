@@ -12,16 +12,30 @@ public class ThreadTest {
 
     public static void main(String[] args) throws Exception {
 
-        //setVal();
-        String aa = "abcdef";
-        System.out.println(reverse(aa));
+        Thread.currentThread().interrupt();
+        System.out.println("是否停止 1？="+Thread.interrupted());
+        System.out.println("是否停止 2？="+Thread.interrupted());
+        System.out.println("是否停止 3？="+Thread.interrupted());
+        System.out.println("是否停止 3？="+Thread.interrupted());
+        System.out.println("end!");
+
     }
 
-    public static String reverse(String aa){
-        if(StringUtils.isEmpty(aa)){
-            return aa;
-        }
-        return reverse(aa.substring(1)) + aa.charAt(0);
+    public void test() throws InterruptedException {
+
+        Runnable runnable = new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 0; i < 10000; i++) {
+                    System.out.println("i=" + i);
+                }
+            }
+        };
+        Thread t = new Thread(runnable);
+        t.start();
+        Thread.sleep(500);
+        t.interrupt();
+
     }
 
 

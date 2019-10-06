@@ -1,5 +1,7 @@
 package com.server.soundcode;
 
+import java.util.ArrayList;
+
 /**
  * @author laiwenchao
  * @Classname ListAndSetCode
@@ -8,12 +10,8 @@ package com.server.soundcode;
  */
 public class ListAndSetCode {
     public static void main(String[] args) {
-
-    }
-
-    public final void speek(){
-    }
-
-    public final void speek(String value){
+        ArrayList<String> list = new ArrayList<>();
+        list.add("");
+        list.remove("");
     }
 }

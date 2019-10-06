@@ -13,6 +13,8 @@ public class ConcurrentHashMapCode {
 
     public static void main(String[] args) {
 
-        new ConcurrentHashMap<String,String>();
+        ConcurrentHashMap map = new ConcurrentHashMap<String,String>();
+        map.put("aa","dd");
+        map.get("aa");
     }
 }

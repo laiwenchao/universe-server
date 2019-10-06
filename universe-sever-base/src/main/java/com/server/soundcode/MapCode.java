@@ -11,8 +11,10 @@ import java.util.concurrent.ConcurrentHashMap;
  * @Date 2019-07-01 17:42
  **/
 public class MapCode {
+    static final int MAXIMUM_CAPACITY = 1 << 30;
     public static void main(String[] args) {
         Map<String, Integer> map = new HashMap<String, Integer>();
-
+        map.put("", 1);
+        map.get("");
     }
 }

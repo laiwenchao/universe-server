@@ -52,10 +52,9 @@ public class MyArrayList<E> {
 
     public static void main(String[] args) {
         MyArrayList<String> list = new MyArrayList<String>();
-        for(int i=0;i<11;i++){
+        for(int i=0;i<16;i++){
             list.add("a");
         }
-        new ArrayList<String>();
 
         System.out.println(list.size);
         System.out.println(elementData.length);
