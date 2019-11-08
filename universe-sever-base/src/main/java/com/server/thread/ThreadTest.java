@@ -1,6 +1,6 @@
 package com.server.thread;
 
-import org.springframework.util.StringUtils;
+import java.util.concurrent.CyclicBarrier;
 
 /**
  * @author laiwenchao
@@ -10,33 +10,61 @@ import org.springframework.util.StringUtils;
  */
 public class ThreadTest {
 
+    static volatile int num = 0;
+
     public static void main(String[] args) throws Exception {
 
-        Thread.currentThread().interrupt();
-        System.out.println("是否停止 1？="+Thread.interrupted());
-        System.out.println("是否停止 2？="+Thread.interrupted());
-        System.out.println("是否停止 3？="+Thread.interrupted());
-        System.out.println("是否停止 3？="+Thread.interrupted());
-        System.out.println("end!");
+        int prev = Integer.MIN_VALUE / 2;
+        System.out.println(prev);
 
+        /*ThreadTest threadTest = new ThreadTest();
+        threadTest.test();*/
     }
 
-    public void test() throws InterruptedException {
 
-        Runnable runnable = new Runnable() {
-            @Override
-            public void run() {
-                for (int i = 0; i < 10000; i++) {
-                    System.out.println("i=" + i);
+    @SuppressWarnings("all")
+    public void test() {
+        ThreadTest t1 = new ThreadTest();
+        ThreadTest t2 = new ThreadTest();
+
+        CyclicBarrier cyclicBarrier = new CyclicBarrier(100);
+        for (int i = 0; i < 50; i++) {
+            Runnable runnable = new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        cyclicBarrier.await();
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                    synchronized (t1) {
+                        num++;
+                        System.out.println(Thread.currentThread().getName() + ":" + num);
+                    }
                 }
-            }
-        };
-        Thread t = new Thread(runnable);
-        t.start();
-        Thread.sleep(500);
-        t.interrupt();
+            };
+            Thread thread = new Thread(runnable);
+            thread.start();
+        }
 
+        for (int i = 0; i < 50; i++) {
+            Runnable runnable = new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        cyclicBarrier.await();
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                    synchronized (t2) {
+                        num++;
+                        System.out.println(Thread.currentThread().getName() + ":" + num);
+                    }
+                }
+            };
+            Thread thread = new Thread(runnable);
+            thread.start();
+        }
     }
-
 
 }
